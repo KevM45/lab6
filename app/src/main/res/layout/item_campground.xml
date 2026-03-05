@@ -28,7 +28,6 @@
         android:text="Campground Name"
         android:textStyle="bold"
         android:textSize="16sp"
-        android:textColor="@android:color/black"
         android:ellipsize="end"
         android:maxLines="2"
         app:layout_constraintStart_toEndOf="@id/itemCampgroundImage"
